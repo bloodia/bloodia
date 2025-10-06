@@ -361,6 +361,7 @@ body {
 }
 
 .modal-close {
+    font-size: 50px;
     position: absolute;
     right: 8px;
     top: 8px;
